@@ -1,0 +1,31 @@
+body{
+    background-image: url("./Premium\ Photo\ _\ Colorful\ pink\ fluffy\ cotton\ candy\ background\,\ soft\ color\ sweet\ candyfloss\,\ abstract\ blurre.jfif");
+    background-size: cover;
+}
+#button{
+    background-color: rgb(29, 235, 74);
+    border: 2PX SOLID rgb(235, 204, 6);
+    transition-duration: 0.4s;
+    border-radius:13px;
+    border: none;
+    color: while;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+    margin-left: 575px;
+    border-radius: 12px;
+    
+}
+#button:hover{
+    background-color: rgb(220, 176, 34);
+    color:white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#head1{
+    text-align: center;
+    margin-top: 200px;
+    text-size-adjust: 50px;
+}
